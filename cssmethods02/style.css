@@ -1,0 +1,18 @@
+.one{
+    background-color:rgb(255, 190, 201);
+    font-family:Verdana, sans-serif;
+
+}
+#blue{
+    color:rgb(50, 50, 255);
+    font-size:36px;
+
+}
+#green{
+    background-color:rgb(98, 197, 98);
+    font-size:24px;
+    font-weight:bold;
+}
+.three{
+    font-size:24px;
+}
